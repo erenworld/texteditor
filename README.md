@@ -8,7 +8,6 @@ This project is a minimalist text editor implemented in C, designed to run in th
 
 The goal is to learn and understand the fundamentals of system programming and building a basic text editor in C.
 
----
 
 ## Features
 
